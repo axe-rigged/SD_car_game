@@ -24,6 +24,6 @@ public class camera_control : MonoBehaviour
         var move_position = player_car.transform.TransformPoint(cameras_rest_position);
         //slerping
         //camera_position.position = move_position; 
-        camera_position.position = Vector3.Lerp(camera_position.position, move_position, .3f);
+        camera_position.position = Vector3.Lerp(camera_position.position, move_position, .25f);
     }
 }

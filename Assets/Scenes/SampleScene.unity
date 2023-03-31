@@ -1501,5 +1501,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2098520651856990087, guid: cc8825ba39ca3e1a792c0be9c5dc54d0,
+        type: 3}
+      propertyPath: m_SidewaysFriction.m_Stiffness
+      value: 1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2098520653433752301, guid: cc8825ba39ca3e1a792c0be9c5dc54d0,
+        type: 3}
+      propertyPath: m_SidewaysFriction.m_Stiffness
+      value: 1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2098520653494106865, guid: cc8825ba39ca3e1a792c0be9c5dc54d0,
+        type: 3}
+      propertyPath: m_SidewaysFriction.m_Stiffness
+      value: 1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2098520653600199220, guid: cc8825ba39ca3e1a792c0be9c5dc54d0,
+        type: 3}
+      propertyPath: m_SidewaysFriction.m_Stiffness
+      value: 1.3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cc8825ba39ca3e1a792c0be9c5dc54d0, type: 3}
